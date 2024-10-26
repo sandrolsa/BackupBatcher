@@ -73,16 +73,16 @@ namespace Teste_1
                 {
                     camposVazios = true;
                     setProperty(textBox.PlaceholderText);
-                    batBackup.Bat_Backup();
-                    MessageBox.Show("Bat criada com sucesso!", "Sucesso", MessageBoxButtons.OK);
                 }
             }
 
-            if (!camposVazios)
+            if (camposVazios)
             {
-                batBackup.Bat_Backup();
-                MessageBox.Show("Bat criada com sucesso!", "Sucesso", MessageBoxButtons.OK);
+                MessageBox.Show("Valor padrão atribuído aos campos vazios", "Atenção", MessageBoxButtons.OK);
             }
+
+            MessageBox.Show("Bat criada com sucesso!", "Sucesso", MessageBoxButtons.OK);
+            batBackup.Bat_Backup();
         }
 
         private void butBusca_Click(object sender, EventArgs e)

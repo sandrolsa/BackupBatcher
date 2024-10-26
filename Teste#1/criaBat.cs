@@ -60,24 +60,24 @@ namespace Teste_1
                 (banco, value => dadosBanco = value),
                 (senha, value => dadosSenha = value)
             };
+
             foreach (var (textBox, setProperty) in campos)
             {
                 if (string.IsNullOrEmpty(textBox.Text))
                 {
                     camposVazios = true;
                     setProperty(textBox.PlaceholderText);
-                    var dadosArq = new dadosArq(this);
-                    dadosArq.Show();
-                    Visible = false;
                 }
             }
 
-            if (!camposVazios)
+            if (camposVazios)
             {
-                var dadosArq = new dadosArq(this);
-                dadosArq.Show();
-                Visible = false;
+                MessageBox.Show("Valor padrão atribuído aos campos vazios.", "Atenção!", MessageBoxButtons.OK);
             }
+
+            var dadosArq = new dadosArq(this);
+            dadosArq.Show();
+            Visible = false;
         }
 
         private void butDbmysql_Click(object sender, EventArgs e)

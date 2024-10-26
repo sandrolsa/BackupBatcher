@@ -14,8 +14,8 @@ namespace Teste_1
         }
         public void Bat_Backup()
         {
-            string Diretorio = @"C:\Database\Backup\Bat\Teste.bat";
-
+            string Diretorio = @"C:\DATABASE\BACKUP\BAT\";
+            string Arquivo = "backup.bat";
             string Bat =
                 "@ECHO OFF\r\n\r\n" +
                 ":: =========== CONFIGURAÇÕES BÁSICAS ===============\r\n::" +
@@ -78,8 +78,13 @@ namespace Teste_1
                 ":: ======== COPIA ARQUIVO ===========\r\n\r\n" +
                 "@echo exit";
 
-            File.WriteAllText(Diretorio, Bat);
-            Console.WriteLine("Arquivo .bat criado com sucesso!");
+
+            if (!Directory.Exists(Diretorio))
+            {
+                // Se não existir, cria a pasta
+                Directory.CreateDirectory(Diretorio);
+            }
+            File.WriteAllText(Path.Combine(Diretorio, Arquivo), Bat);
         }
     }
 }

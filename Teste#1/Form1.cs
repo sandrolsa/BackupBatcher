@@ -2,7 +2,6 @@ namespace Teste_1
 {
     public partial class BackupBatcher : Form
     {
-        private BatBackup batBackup;
         public BackupBatcher()
 
         {

@@ -79,5 +79,15 @@ namespace Teste_1
                 Visible = false;
             }
         }
+
+        private void butDbmysql_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Está função ainda não está implementada.", "Atenção!", MessageBoxButtons.OK);
+        }
+
+        private void butTesta_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Está função ainda não está implementada.", "Atenção!", MessageBoxButtons.OK);
+        }
     }
 }

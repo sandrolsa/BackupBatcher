@@ -6,8 +6,9 @@ namespace Teste_1
     public partial class dadosArq : Form
     {
         private readonly criaBat criaBatForm;
+        private BatBackup batBackup;
 
-        public string dadosEmpresa {  get{return empresa.Text;} set{ empresa.Text = value;} }
+        public string dadosEmpresa { get { return empresa.Text; } set { empresa.Text = value; } }
         public string dadosCaixa { get { return caixa.Text; } set { caixa.Text = value; } }
         public string qtdDias { get { return dias.Text; } set { dias.Text = value; } }
         public string backup { get { return dirBackup.Text; } set { dirBackup.Text = value; } }
@@ -17,11 +18,12 @@ namespace Teste_1
         {
             InitializeComponent();
             criaBatForm = form;
+            batBackup = new BatBackup(criaBatForm, this);
             associa_Evento();
 
         }
 
-        private void checa_Campos (object? sender, EventArgs e)
+        private void checa_Campos(object? sender, EventArgs e)
         {
             foreach (Control control in this.Controls)
             {
@@ -38,11 +40,11 @@ namespace Teste_1
             {
                 if (control is TextBox textBox)
                 {
-                    textBox.Leave += checa_Campos;   
+                    textBox.Leave += checa_Campos;
                 }
             }
         }
-        public void fechaPrograma (object sender, FormClosedEventArgs e)
+        public void fechaPrograma(object sender, FormClosedEventArgs e)
         {
             Application.Exit();
         }
@@ -71,34 +73,26 @@ namespace Teste_1
                 {
                     camposVazios = true;
                     setProperty(textBox.PlaceholderText);
-
-                    MessageBox.Show(criaBatForm.dadosServidor +
-                                    criaBatForm.dadosBanco +
-                                    criaBatForm.dadosSenha +
-                                    criaBatForm.dadosUsuario +
-                                    dadosEmpresa +
-                                    dadosCaixa +
-                                    qtdDias +
-                                    backup +
-                                    copia, "SUCESSO", MessageBoxButtons.OK);
+                    batBackup.Bat_Backup();
+                    MessageBox.Show("Bat criada com sucesso!", "Sucesso", MessageBoxButtons.OK);
                 }
             }
 
             if (!camposVazios)
             {
-                MessageBox.Show(criaBatForm.dadosServidor +
-                                    criaBatForm.dadosBanco +
-                                    criaBatForm.dadosSenha +
-                                    criaBatForm.dadosUsuario +
-                                    dadosEmpresa +
-                                    dadosCaixa +
-                                    qtdDias +
-                                    backup +
-                                    copia, "SUCESSO", MessageBoxButtons.OK);
+                batBackup.Bat_Backup();
+                MessageBox.Show("Bat criada com sucesso!", "Sucesso", MessageBoxButtons.OK);
             }
+        }
 
+        private void butBusca_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Está função ainda não está implementada.", "Atenção!", MessageBoxButtons.OK);
+        }
 
-            MessageBox.Show(criaBatForm.dadosServidor, "SUCESSO", MessageBoxButtons.OK);
+        private void butBusca2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Está função ainda não está implementada.", "Atenção!", MessageBoxButtons.OK);
         }
     }
 }

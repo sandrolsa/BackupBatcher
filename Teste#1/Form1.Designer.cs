@@ -66,6 +66,7 @@ namespace Teste_1
             excluiBat.ForeColor = Color.FromArgb(68, 71, 90);
             excluiBat.Name = "excluiBat";
             excluiBat.UseVisualStyleBackColor = false;
+            excluiBat.Click += excluiBat_Click;
             // 
             // backupTitulo
             // 
@@ -104,10 +105,10 @@ namespace Teste_1
             Controls.Add(gbPrincipal);
             ForeColor = Color.White;
             Name = "BackupBatcher";
+            FormClosed += fechaPrograma;
             gbPrincipal.ResumeLayout(false);
             ResumeLayout(false);
             PerformLayout();
-            FormClosed += fechaPrograma;
         }
 
         #endregion

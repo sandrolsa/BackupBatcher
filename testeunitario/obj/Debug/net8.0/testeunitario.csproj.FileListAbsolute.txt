@@ -1,0 +1,15 @@
+C:\Users\Sandro\source\repos\testeunitario\bin\Debug\net8.0\testeunitario.exe
+C:\Users\Sandro\source\repos\testeunitario\bin\Debug\net8.0\testeunitario.deps.json
+C:\Users\Sandro\source\repos\testeunitario\bin\Debug\net8.0\testeunitario.runtimeconfig.json
+C:\Users\Sandro\source\repos\testeunitario\bin\Debug\net8.0\testeunitario.dll
+C:\Users\Sandro\source\repos\testeunitario\bin\Debug\net8.0\testeunitario.pdb
+C:\Users\Sandro\source\repos\testeunitario\obj\Debug\net8.0\testeunitario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandro\source\repos\testeunitario\obj\Debug\net8.0\testeunitario.AssemblyInfoInputs.cache
+C:\Users\Sandro\source\repos\testeunitario\obj\Debug\net8.0\testeunitario.AssemblyInfo.cs
+C:\Users\Sandro\source\repos\testeunitario\obj\Debug\net8.0\testeunitario.csproj.CoreCompileInputs.cache
+C:\Users\Sandro\source\repos\testeunitario\obj\Debug\net8.0\testeunitario.sourcelink.json
+C:\Users\Sandro\source\repos\testeunitario\obj\Debug\net8.0\testeunitario.dll
+C:\Users\Sandro\source\repos\testeunitario\obj\Debug\net8.0\refint\testeunitario.dll
+C:\Users\Sandro\source\repos\testeunitario\obj\Debug\net8.0\testeunitario.pdb
+C:\Users\Sandro\source\repos\testeunitario\obj\Debug\net8.0\testeunitario.genruntimeconfig.cache
+C:\Users\Sandro\source\repos\testeunitario\obj\Debug\net8.0\ref\testeunitario.dll

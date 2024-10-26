@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testeunitario", "testeunitario.csproj", "{8DA265CE-5A32-418F-89C8-66498CDA04D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DA265CE-5A32-418F-89C8-66498CDA04D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DA265CE-5A32-418F-89C8-66498CDA04D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DA265CE-5A32-418F-89C8-66498CDA04D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DA265CE-5A32-418F-89C8-66498CDA04D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53BE6FE6-AFDE-4F25-BDEB-066E00A0DE54}
+	EndGlobalSection
+EndGlobal

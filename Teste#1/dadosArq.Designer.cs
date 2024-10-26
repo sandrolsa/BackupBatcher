@@ -98,6 +98,7 @@
             butBusca2.Size = new Size(40, 29);
             butBusca2.TabIndex = 7;
             butBusca2.UseVisualStyleBackColor = true;
+            butBusca2.Click += butBusca2_Click;
             // 
             // butBusca
             // 
@@ -107,6 +108,7 @@
             butBusca.Size = new Size(40, 29);
             butBusca.TabIndex = 5;
             butBusca.UseVisualStyleBackColor = true;
+            butBusca.Click += butBusca_Click;
             // 
             // labelCopia
             // 
@@ -166,6 +168,7 @@
             dirCopia.PlaceholderText = "\\\\LOCALHOST\\DATABASE\\COPIA\\";
             dirCopia.Size = new Size(297, 27);
             dirCopia.TabIndex = 6;
+            dirCopia.Leave += checa_Campos;
             // 
             // dirBackup
             // 
@@ -180,6 +183,7 @@
             dirBackup.PlaceholderText = "C:\\DATABASE\\BACKUP\\ON\\";
             dirBackup.Size = new Size(297, 27);
             dirBackup.TabIndex = 4;
+            dirBackup.Leave += checa_Campos;
             // 
             // dias
             // 
@@ -193,6 +197,7 @@
             dias.Size = new Size(200, 27);
             dias.TabIndex = 3;
             dias.TextAlign = HorizontalAlignment.Center;
+            dias.Leave += checa_Campos;
             // 
             // caixa
             // 
@@ -207,6 +212,7 @@
             caixa.Size = new Size(200, 27);
             caixa.TabIndex = 2;
             caixa.TextAlign = HorizontalAlignment.Center;
+            caixa.Leave += checa_Campos;
             // 
             // empresa
             // 
@@ -222,6 +228,7 @@
             empresa.Size = new Size(200, 27);
             empresa.TabIndex = 1;
             empresa.TextAlign = HorizontalAlignment.Center;
+            empresa.Leave += checa_Campos;
             // 
             // butFinaliza
             // 

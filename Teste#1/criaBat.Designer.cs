@@ -86,6 +86,7 @@
             butDbmysql.TabIndex = 5;
             butDbmysql.Text = "DbMysql";
             butDbmysql.UseVisualStyleBackColor = false;
+            butDbmysql.Click += butDbmysql_Click;
             // 
             // butTesta
             // 
@@ -98,6 +99,7 @@
             butTesta.TabIndex = 6;
             butTesta.Text = "Testar";
             butTesta.UseVisualStyleBackColor = false;
+            butTesta.Click += butTesta_Click;
             // 
             // senha
             // 

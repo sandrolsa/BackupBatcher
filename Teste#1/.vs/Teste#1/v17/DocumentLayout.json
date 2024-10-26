@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Sandro\\source\\repos\\Teste#1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Teste#1.csproj|c:\\users\\sandro\\source\\repos\\teste#1\\dadosarq.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Teste#1.csproj|solutionrelative:dadosarq.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Teste#1.csproj|C:\\Users\\Sandro\\source\\repos\\Teste#1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Teste#1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Teste#1.csproj|C:\\Users\\Sandro\\source\\repos\\Teste#1\\criabat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Teste#1.csproj|solutionrelative:criabat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Teste#1.csproj|C:\\Users\\Sandro\\source\\repos\\Teste#1\\dadosarq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Teste#1.csproj|solutionrelative:dadosarq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Teste#1.csproj|c:\\users\\sandro\\source\\repos\\teste#1\\dadosarq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Teste#1.csproj|solutionrelative:dadosarq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Teste#1.csproj|c:\\users\\sandro\\source\\repos\\teste#1\\criabat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Teste#1.csproj|solutionrelative:criabat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Teste#1.csproj|c:\\users\\sandro\\source\\repos\\teste#1\\dadosarq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Teste#1.csproj|solutionrelative:dadosarq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Teste#1.csproj|c:\\users\\sandro\\source\\repos\\teste#1\\criabat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Teste#1.csproj|solutionrelative:criabat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Teste#1.csproj|c:\\users\\sandro\\source\\repos\\teste#1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Teste#1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Teste#1.csproj|c:\\users\\sandro\\source\\repos\\teste#1\\criabat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,6 +25,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Teste#1.csproj|c:\\users\\sandro\\source\\repos\\teste#1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Teste#1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Teste#1.csproj|c:\\users\\sandro\\source\\repos\\teste#1\\dadosarq.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Teste#1.csproj|solutionrelative:dadosarq.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Teste#1.csproj|c:\\users\\sandro\\source\\repos\\teste#1\\batbackup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Teste#1.csproj|solutionrelative:batbackup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Sandro\\source\\repos\\Teste#1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -59,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "criaBat.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Sandro\\source\\repos\\Teste#1\\criaBat.cs",
               "RelativeDocumentMoniker": "criaBat.cs",
@@ -72,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "dadosArq.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Sandro\\source\\repos\\Teste#1\\dadosArq.cs",
               "RelativeDocumentMoniker": "dadosArq.cs",
@@ -89,67 +89,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Sandro\\source\\repos\\Teste#1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\Sandro\\source\\repos\\Teste#1\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-25T01:47:43.752Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "criaBat.cs",
               "DocumentMoniker": "C:\\Users\\Sandro\\source\\repos\\Teste#1\\criaBat.cs",
               "RelativeDocumentMoniker": "criaBat.cs",
               "ToolTip": "C:\\Users\\Sandro\\source\\repos\\Teste#1\\criaBat.cs",
               "RelativeToolTip": "criaBat.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAkwDUAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAjwFkAAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-25T01:33:21.09Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "criaBat.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Sandro\\source\\repos\\Teste#1\\criaBat.Designer.cs",
-              "RelativeDocumentMoniker": "criaBat.Designer.cs",
-              "ToolTip": "C:\\Users\\Sandro\\source\\repos\\Teste#1\\criaBat.Designer.cs",
-              "RelativeToolTip": "criaBat.Designer.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAUwFUAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T15:32:57.617Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "dadosArq.cs",
               "DocumentMoniker": "C:\\Users\\Sandro\\source\\repos\\Teste#1\\dadosArq.cs",
               "RelativeDocumentMoniker": "dadosArq.cs",
               "ToolTip": "C:\\Users\\Sandro\\source\\repos\\Teste#1\\dadosArq.cs",
               "RelativeToolTip": "dadosArq.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAzwGAAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAjwF4AAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-25T01:33:42.659Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "dadosArq.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Sandro\\source\\repos\\Teste#1\\dadosArq.Designer.cs",
               "RelativeDocumentMoniker": "dadosArq.Designer.cs",
               "ToolTip": "C:\\Users\\Sandro\\source\\repos\\Teste#1\\dadosArq.Designer.cs",
               "RelativeToolTip": "dadosArq.Designer.cs",
-              "ViewState": "AgIAAJ8AAAAAAAAAAAAYwK8AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAYwLIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-26T03:43:16.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BatBackup.cs",
+              "DocumentMoniker": "C:\\Users\\Sandro\\source\\repos\\Teste#1\\BatBackup.cs",
+              "RelativeDocumentMoniker": "BatBackup.cs",
+              "ToolTip": "C:\\Users\\Sandro\\source\\repos\\Teste#1\\BatBackup.cs",
+              "RelativeToolTip": "BatBackup.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAmwEsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T13:56:10.678Z",
               "EditorCaption": ""
             }
           ]

@@ -19,3 +19,4 @@ C:\Users\Sandro\source\repos\Teste#1\obj\Debug\net8.0-windows\Teste_1.criaBat.re
 C:\Users\Sandro\source\repos\Teste#1\obj\Debug\net8.0-windows\Teste_1.BackupBatcher.resources
 C:\Users\Sandro\source\repos\Teste#1\obj\Debug\net8.0-windows\Teste_1.BackupBatcher.aa.resources
 C:\Users\Sandro\source\repos\Teste#1\obj\Debug\net8.0-windows\Teste_1.dadosArq.resources
+C:\Users\Sandro\source\repos\Teste#1\obj\Debug\net8.0-windows\Teste#1.sourcelink.json

@@ -2,8 +2,9 @@ namespace Teste_1
 {
     public partial class BackupBatcher : Form
     {
+        private BatBackup batBackup;
         public BackupBatcher()
-        
+
         {
             InitializeComponent();
         }
@@ -20,12 +21,17 @@ namespace Teste_1
 
         private void editaBat_Click(object sender, EventArgs e)
         {
-            //MessageBox.Show("Bat criada com sucesso", "SUCESSO!", MessageBoxButtons.OK);
+            MessageBox.Show("Está função ainda não está implementada.", "Atenção!", MessageBoxButtons.OK);
         }
 
         private void sair_Click(object sender, EventArgs e)
         {
             Application.Exit();
+        }
+
+        private void excluiBat_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Está função ainda não está implementada.", "Atenção!", MessageBoxButtons.OK);
         }
     }
 }

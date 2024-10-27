@@ -1,0 +1,40 @@
+C:\Users\Sandro\source\repos\Teste#1\bin\Release\net8.0-windows\Backup Batcher.exe
+C:\Users\Sandro\source\repos\Teste#1\bin\Release\net8.0-windows\Backup Batcher.deps.json
+C:\Users\Sandro\source\repos\Teste#1\bin\Release\net8.0-windows\Backup Batcher.runtimeconfig.json
+C:\Users\Sandro\source\repos\Teste#1\bin\Release\net8.0-windows\Backup Batcher.dll
+C:\Users\Sandro\source\repos\Teste#1\bin\Release\net8.0-windows\Backup Batcher.pdb
+C:\Users\Sandro\source\repos\Teste#1\bin\Release\net8.0-windows\aa\Backup Batcher.resources.dll
+C:\Users\Sandro\source\repos\Teste#1\obj\Release\net8.0-windows\Teste_1.BackupBatcher.resources
+C:\Users\Sandro\source\repos\Teste#1\obj\Release\net8.0-windows\Teste_1.criaBat.resources
+C:\Users\Sandro\source\repos\Teste#1\obj\Release\net8.0-windows\Teste_1.dadosArq.resources
+C:\Users\Sandro\source\repos\Teste#1\obj\Release\net8.0-windows\Teste_1.BackupBatcher.aa.resources
+C:\Users\Sandro\source\repos\Teste#1\obj\Release\net8.0-windows\Backup Batcher.csproj.GenerateResource.cache
+C:\Users\Sandro\source\repos\Teste#1\obj\Release\net8.0-windows\Backup Batcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandro\source\repos\Teste#1\obj\Release\net8.0-windows\Backup Batcher.AssemblyInfoInputs.cache
+C:\Users\Sandro\source\repos\Teste#1\obj\Release\net8.0-windows\Backup Batcher.AssemblyInfo.cs
+C:\Users\Sandro\source\repos\Teste#1\obj\Release\net8.0-windows\Backup Batcher.csproj.CoreCompileInputs.cache
+C:\Users\Sandro\source\repos\Teste#1\obj\Release\net8.0-windows\Backup Batcher.sourcelink.json
+C:\Users\Sandro\source\repos\Teste#1\obj\Release\net8.0-windows\aa\Backup Batcher.resources.dll
+C:\Users\Sandro\source\repos\Teste#1\obj\Release\net8.0-windows\Backup Batcher.dll
+C:\Users\Sandro\source\repos\Teste#1\obj\Release\net8.0-windows\refint\Backup Batcher.dll
+C:\Users\Sandro\source\repos\Teste#1\obj\Release\net8.0-windows\Backup Batcher.pdb
+C:\Users\Sandro\source\repos\Teste#1\obj\Release\net8.0-windows\Backup Batcher.genruntimeconfig.cache
+C:\Users\Sandro\source\repos\Teste#1\obj\Release\net8.0-windows\ref\Backup Batcher.dll
+C:\Users\Sandro\source\repos\Teste#1\obj\Release\net8.0-windows\BackupBatcher.Properties.Resources.resources
+C:\Users\Sandro\source\repos\Teste#1\bin\Release\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Sandro\source\repos\Teste#1\bin\Release\net8.0-windows\Google.Protobuf.dll
+C:\Users\Sandro\source\repos\Teste#1\bin\Release\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Sandro\source\repos\Teste#1\bin\Release\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Sandro\source\repos\Teste#1\bin\Release\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Sandro\source\repos\Teste#1\bin\Release\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sandro\source\repos\Teste#1\bin\Release\net8.0-windows\MySql.Data.dll
+C:\Users\Sandro\source\repos\Teste#1\bin\Release\net8.0-windows\MySqlConnector.dll
+C:\Users\Sandro\source\repos\Teste#1\bin\Release\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Sandro\source\repos\Teste#1\bin\Release\net8.0-windows\ZstdSharp.dll
+C:\Users\Sandro\source\repos\Teste#1\bin\Release\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Sandro\source\repos\Teste#1\bin\Release\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Sandro\source\repos\Teste#1\bin\Release\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Sandro\source\repos\Teste#1\bin\Release\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Sandro\source\repos\Teste#1\bin\Release\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Sandro\source\repos\Teste#1\obj\Release\net8.0-windows\Backup Batcher.csproj.AssemblyReference.cache
+C:\Users\Sandro\source\repos\Teste#1\obj\Release\net8.0-windows\Backup B.E88FCC96.Up2Date

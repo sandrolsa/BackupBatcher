@@ -1,0 +1,6 @@
+C:\DEV\trabalho\programa\backup-batcher\v1.1\Backup Batcher.exe
+C:\DEV\trabalho\programa\backup-batcher\v1.1\Backup Batcher.dll
+C:\DEV\trabalho\programa\backup-batcher\v1.1\Backup Batcher.deps.json
+C:\DEV\trabalho\programa\backup-batcher\v1.1\Backup Batcher.runtimeconfig.json
+C:\DEV\trabalho\programa\backup-batcher\v1.1\Backup Batcher.pdb
+C:\DEV\trabalho\programa\backup-batcher\v1.1\aa\Backup Batcher.resources.dll

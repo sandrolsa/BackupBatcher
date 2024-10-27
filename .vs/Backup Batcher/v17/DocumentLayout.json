@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sandro\\source\\repos\\Teste#1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Backup Batcher.csproj|C:\\Users\\Sandro\\source\\repos\\Teste#1\\dadosarq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Backup Batcher.csproj|solutionrelative:dadosarq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Backup Batcher.csproj|C:\\Users\\Sandro\\source\\repos\\Teste#1\\criabat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Backup Batcher.csproj|solutionrelative:criabat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Backup Batcher.csproj|C:\\Users\\Sandro\\source\\repos\\Teste#1\\backupbatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Backup Batcher.csproj|solutionrelative:backupbatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Backup Batcher.csproj|c:\\users\\sandro\\source\\repos\\teste#1\\batbackup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Backup Batcher.csproj|solutionrelative:batbackup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Backup Batcher.csproj|c:\\users\\sandro\\source\\repos\\teste#1\\backupbatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Backup Batcher.csproj|solutionrelative:backupbatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Backup Batcher.csproj|c:\\users\\sandro\\source\\repos\\teste#1\\backup batcher.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Backup Batcher.csproj|solutionrelative:backup batcher.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Backup Batcher.csproj|c:\\users\\sandro\\source\\repos\\teste#1\\backupbatcher.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Backup Batcher.csproj|solutionrelative:backupbatcher.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Backup Batcher.csproj|c:\\users\\sandro\\source\\repos\\teste#1\\dadosarq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Backup Batcher.csproj|solutionrelative:dadosarq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Backup Batcher.csproj|c:\\users\\sandro\\source\\repos\\teste#1\\dadosarq.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Backup Batcher.csproj|solutionrelative:dadosarq.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Backup Batcher.csproj|c:\\users\\sandro\\source\\repos\\teste#1\\criabat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Backup Batcher.csproj|solutionrelative:criabat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Backup Batcher.csproj|c:\\users\\sandro\\source\\repos\\teste#1\\criabat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B695D1E-A86E-4945-AB41-092C818441C0}|Backup Batcher.csproj|solutionrelative:criabat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "backupBatcher.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Sandro\\source\\repos\\Teste#1\\backupBatcher.cs",
+              "RelativeDocumentMoniker": "backupBatcher.cs",
+              "ToolTip": "C:\\Users\\Sandro\\source\\repos\\Teste#1\\backupBatcher.cs [Projeto]",
+              "RelativeToolTip": "backupBatcher.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T01:23:30.967Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "criaBat.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Sandro\\source\\repos\\Teste#1\\criaBat.cs",
+              "RelativeDocumentMoniker": "criaBat.cs",
+              "ToolTip": "C:\\Users\\Sandro\\source\\repos\\Teste#1\\criaBat.cs [Projeto]",
+              "RelativeToolTip": "criaBat.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T01:23:35.258Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dadosArq.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Sandro\\source\\repos\\Teste#1\\dadosArq.cs",
+              "RelativeDocumentMoniker": "dadosArq.cs",
+              "ToolTip": "C:\\Users\\Sandro\\source\\repos\\Teste#1\\dadosArq.cs [Projeto]",
+              "RelativeToolTip": "dadosArq.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T03:25:44.55Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "backupBatcher.cs",
+              "DocumentMoniker": "C:\\Users\\Sandro\\source\\repos\\Teste#1\\backupBatcher.cs",
+              "RelativeDocumentMoniker": "backupBatcher.cs",
+              "ToolTip": "C:\\Users\\Sandro\\source\\repos\\Teste#1\\backupBatcher.cs",
+              "RelativeToolTip": "backupBatcher.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwFMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T01:23:58.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "backupBatcher.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Sandro\\source\\repos\\Teste#1\\backupBatcher.Designer.cs",
+              "RelativeDocumentMoniker": "backupBatcher.Designer.cs",
+              "ToolTip": "C:\\Users\\Sandro\\source\\repos\\Teste#1\\backupBatcher.Designer.cs",
+              "RelativeToolTip": "backupBatcher.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwHAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T01:24:00.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "criaBat.cs",
+              "DocumentMoniker": "C:\\Users\\Sandro\\source\\repos\\Teste#1\\criaBat.cs",
+              "RelativeDocumentMoniker": "criaBat.cs",
+              "ToolTip": "C:\\Users\\Sandro\\source\\repos\\Teste#1\\criaBat.cs",
+              "RelativeToolTip": "criaBat.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAcwGsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T01:24:14.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "criaBat.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Sandro\\source\\repos\\Teste#1\\criaBat.Designer.cs",
+              "RelativeDocumentMoniker": "criaBat.Designer.cs",
+              "ToolTip": "C:\\Users\\Sandro\\source\\repos\\Teste#1\\criaBat.Designer.cs",
+              "RelativeToolTip": "criaBat.Designer.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAYwOgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T01:24:18.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dadosArq.cs",
+              "DocumentMoniker": "C:\\Users\\Sandro\\source\\repos\\Teste#1\\dadosArq.cs",
+              "RelativeDocumentMoniker": "dadosArq.cs",
+              "ToolTip": "C:\\Users\\Sandro\\source\\repos\\Teste#1\\dadosArq.cs",
+              "RelativeToolTip": "dadosArq.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAiwBEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T01:24:27.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dadosArq.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Sandro\\source\\repos\\Teste#1\\dadosArq.Designer.cs",
+              "RelativeDocumentMoniker": "dadosArq.Designer.cs",
+              "ToolTip": "C:\\Users\\Sandro\\source\\repos\\Teste#1\\dadosArq.Designer.cs",
+              "RelativeToolTip": "dadosArq.Designer.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAiwF0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T01:24:28.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BatBackup.cs",
+              "DocumentMoniker": "C:\\Users\\Sandro\\source\\repos\\Teste#1\\BatBackup.cs",
+              "RelativeDocumentMoniker": "BatBackup.cs",
+              "ToolTip": "C:\\Users\\Sandro\\source\\repos\\Teste#1\\BatBackup.cs",
+              "RelativeToolTip": "BatBackup.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwE4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T01:24:33.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Backup Batcher",
+              "DocumentMoniker": "C:\\Users\\Sandro\\source\\repos\\Teste#1\\Backup Batcher.csproj",
+              "RelativeDocumentMoniker": "Backup Batcher.csproj",
+              "ToolTip": "C:\\Users\\Sandro\\source\\repos\\Teste#1\\Backup Batcher.csproj",
+              "RelativeToolTip": "Backup Batcher.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-27T04:58:16.458Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

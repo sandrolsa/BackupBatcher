@@ -1,0 +1,2 @@
+C:\DEV\trabalho\programa\backup-batcher\v1.1\Backup Batcher.pdb
+C:\DEV\trabalho\programa\backup-batcher\v1.1\Backup Batcher.exe

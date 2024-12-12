@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Backup Batcher", "Backup Batcher.csproj", "{5B695D1E-A86E-4945-AB41-092C818441C0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{61774442-2FD4-49F7-92B7-C55E06C999C3}"
+	ProjectSection(SolutionItems) = preProject
+		bat.ico = bat.ico
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B695D1E-A86E-4945-AB41-092C818441C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B695D1E-A86E-4945-AB41-092C818441C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B695D1E-A86E-4945-AB41-092C818441C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B695D1E-A86E-4945-AB41-092C818441C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30EA2B76-B54D-4598-AEC2-1767825E403E}
+	EndGlobalSection
+EndGlobal
